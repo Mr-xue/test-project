@@ -1,0 +1,5 @@
+{
+  "editor.formatOnSave": true,
+  "unot.switchMagic": true,
+  "css.customData": [".vscode/unocss.json"]
+}
